@@ -10,7 +10,7 @@ function App() {
      Product List
    </main>
    <footer>
-     All right is reserved.
+     All right is reserved.2020
    </footer>
     </div>
   );
