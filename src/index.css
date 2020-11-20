@@ -46,3 +46,13 @@ header{
     justify-content: center;
     align-items: center;
   }
+  .content{
+    display: flex;
+    flex-flow: wrap;
+  }
+  .main{
+    flex:3 60rem;
+  }
+  .sidebar{
+    flex:1 20rem;
+  }
